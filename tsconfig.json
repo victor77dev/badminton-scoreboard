@@ -22,7 +22,6 @@
     "strictNullChecks": false,
     "suppressImplicitAnyIndexErrors": true,
     "allowSyntheticDefaultImports": true,
-    "maxNodeModuleJsDepth": 30,
     "lib": [
       "dom",
       "dom.iterable",
