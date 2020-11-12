@@ -1,7 +1,8 @@
-import { Fragment } from 'react';
+import React, { Fragment } from 'react';
 import { CourtPage } from './pages/court';
 
-function App() {
+/** @type {React.FC} */
+const App = () => {
   return (
     <Fragment>
       <CourtPage />
