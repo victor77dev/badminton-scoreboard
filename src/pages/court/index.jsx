@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 
-import { Court } from '../../features/court';
+import { Court } from 'features/court';
 
 /** @type {React.FC} */
 export const CourtPage = () => {
