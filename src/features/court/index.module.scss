@@ -1,0 +1,20 @@
+.court {
+  display: flex;
+  width: 80vw;
+}
+
+.left_side::after {
+  content: 'left';
+}
+
+.right_side::after {
+  content: 'right';
+}
+
+.left_half::before {
+  content: 'left_half';
+}
+
+.right_half::before {
+  content: 'right_half';
+}

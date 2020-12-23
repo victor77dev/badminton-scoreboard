@@ -1,10 +1,17 @@
 import React from 'react';
 
-/** @type {React.FC} */
-export const HalfCourt = ({children}) => {
+import styles from './index.module.scss';
+
+/** @type {React.FC<Props>} */
+export const HalfCourt = ({className, children}) => {
   return (
-    <div>
-        {children}
+    <div className={`${styles.half_court} ${className}`}>
+      {children}
     </div>
   );
 };
+
+/**
+ * @typedef {Object} Props
+ * @prop {string} className
+ */
