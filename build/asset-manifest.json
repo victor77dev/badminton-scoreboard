@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.64260360.chunk.css",
-    "main.js": "/build/static/js/main.5a05d972.chunk.js",
-    "main.js.map": "/build/static/js/main.5a05d972.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.ae67cc42.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.ae67cc42.js.map",
-    "static/js/2.8e3cff09.chunk.js": "/build/static/js/2.8e3cff09.chunk.js",
-    "static/js/2.8e3cff09.chunk.js.map": "/build/static/js/2.8e3cff09.chunk.js.map",
-    "static/js/3.e7fab494.chunk.js": "/build/static/js/3.e7fab494.chunk.js",
-    "static/js/3.e7fab494.chunk.js.map": "/build/static/js/3.e7fab494.chunk.js.map",
-    "index.html": "/build/index.html",
-    "precache-manifest.921f9078896ef521e38bd2dadbc0d310.js": "/build/precache-manifest.921f9078896ef521e38bd2dadbc0d310.js",
-    "service-worker.js": "/build/service-worker.js",
-    "static/css/main.64260360.chunk.css.map": "/build/static/css/main.64260360.chunk.css.map",
-    "static/js/2.8e3cff09.chunk.js.LICENSE.txt": "/build/static/js/2.8e3cff09.chunk.js.LICENSE.txt",
-    "static/media/index.module.scss": "/build/static/media/sub-court.0664ab98.svg"
+    "main.css": "/badminton-scoreboard/build/static/css/main.88b299b6.chunk.css",
+    "main.js": "/badminton-scoreboard/build/static/js/main.5a05d972.chunk.js",
+    "main.js.map": "/badminton-scoreboard/build/static/js/main.5a05d972.chunk.js.map",
+    "runtime-main.js": "/badminton-scoreboard/build/static/js/runtime-main.6e272908.js",
+    "runtime-main.js.map": "/badminton-scoreboard/build/static/js/runtime-main.6e272908.js.map",
+    "static/js/2.8e3cff09.chunk.js": "/badminton-scoreboard/build/static/js/2.8e3cff09.chunk.js",
+    "static/js/2.8e3cff09.chunk.js.map": "/badminton-scoreboard/build/static/js/2.8e3cff09.chunk.js.map",
+    "static/js/3.e7fab494.chunk.js": "/badminton-scoreboard/build/static/js/3.e7fab494.chunk.js",
+    "static/js/3.e7fab494.chunk.js.map": "/badminton-scoreboard/build/static/js/3.e7fab494.chunk.js.map",
+    "index.html": "/badminton-scoreboard/build/index.html",
+    "precache-manifest.03845fe8c2c58ddb27a38840c5345c0d.js": "/badminton-scoreboard/build/precache-manifest.03845fe8c2c58ddb27a38840c5345c0d.js",
+    "service-worker.js": "/badminton-scoreboard/build/service-worker.js",
+    "static/css/main.88b299b6.chunk.css.map": "/badminton-scoreboard/build/static/css/main.88b299b6.chunk.css.map",
+    "static/js/2.8e3cff09.chunk.js.LICENSE.txt": "/badminton-scoreboard/build/static/js/2.8e3cff09.chunk.js.LICENSE.txt",
+    "static/media/index.module.scss": "/badminton-scoreboard/build/static/media/sub-court.0664ab98.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae67cc42.js",
+    "static/js/runtime-main.6e272908.js",
     "static/js/2.8e3cff09.chunk.js",
-    "static/css/main.64260360.chunk.css",
+    "static/css/main.88b299b6.chunk.css",
     "static/js/main.5a05d972.chunk.js"
   ]
 }
