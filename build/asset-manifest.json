@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a059b00.chunk.css",
-    "main.js": "/static/js/main.5a05d972.chunk.js",
-    "main.js.map": "/static/js/main.5a05d972.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.89fa6e6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.89fa6e6b.js.map",
-    "static/js/2.8e3cff09.chunk.js": "/static/js/2.8e3cff09.chunk.js",
-    "static/js/2.8e3cff09.chunk.js.map": "/static/js/2.8e3cff09.chunk.js.map",
-    "static/js/3.e7fab494.chunk.js": "/static/js/3.e7fab494.chunk.js",
-    "static/js/3.e7fab494.chunk.js.map": "/static/js/3.e7fab494.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.28bef6a61875088ab7c10137bdbb98f2.js": "/precache-manifest.28bef6a61875088ab7c10137bdbb98f2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6a059b00.chunk.css.map": "/static/css/main.6a059b00.chunk.css.map",
-    "static/js/2.8e3cff09.chunk.js.LICENSE.txt": "/static/js/2.8e3cff09.chunk.js.LICENSE.txt",
-    "static/media/index.module.scss": "/static/media/sub-court.0664ab98.svg"
+    "main.css": "/build/static/css/main.64260360.chunk.css",
+    "main.js": "/build/static/js/main.5a05d972.chunk.js",
+    "main.js.map": "/build/static/js/main.5a05d972.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.ae67cc42.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.ae67cc42.js.map",
+    "static/js/2.8e3cff09.chunk.js": "/build/static/js/2.8e3cff09.chunk.js",
+    "static/js/2.8e3cff09.chunk.js.map": "/build/static/js/2.8e3cff09.chunk.js.map",
+    "static/js/3.e7fab494.chunk.js": "/build/static/js/3.e7fab494.chunk.js",
+    "static/js/3.e7fab494.chunk.js.map": "/build/static/js/3.e7fab494.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.921f9078896ef521e38bd2dadbc0d310.js": "/build/precache-manifest.921f9078896ef521e38bd2dadbc0d310.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/main.64260360.chunk.css.map": "/build/static/css/main.64260360.chunk.css.map",
+    "static/js/2.8e3cff09.chunk.js.LICENSE.txt": "/build/static/js/2.8e3cff09.chunk.js.LICENSE.txt",
+    "static/media/index.module.scss": "/build/static/media/sub-court.0664ab98.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89fa6e6b.js",
+    "static/js/runtime-main.ae67cc42.js",
     "static/js/2.8e3cff09.chunk.js",
-    "static/css/main.6a059b00.chunk.css",
+    "static/css/main.64260360.chunk.css",
     "static/js/main.5a05d972.chunk.js"
   ]
 }
