@@ -1,20 +1,26 @@
 .court {
   display: flex;
   width: 80vw;
+  height: calc(80vw * 315 / 680);
 }
 
-.left_side::after {
-  content: 'left';
+.left_side {
+  background-image: url('images/sub-court.svg');
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
-.right_side::after {
-  content: 'right';
+.right_side {
+  background-image: url('images/sub-court.svg');
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: scaleY(-1);
 }
 
-.left_half::before {
-  content: 'left_half';
-}
-
-.right_half::before {
-  content: 'right_half';
+.left_half {
+  transform: scaleX(-1);
 }

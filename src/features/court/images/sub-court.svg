@@ -1,0 +1,11 @@
+<svg width="680" height="315" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="315" style="fill:rgb(70,103,61)" />
+  <g stroke="rgb(255,255,255)" stroke-width="5">
+    <line x1="0" y1="10" x2="670" y2="10" />
+    <line x1="670" y1="10" x2="670" y2="315" />
+    <line x1="0" y1="56" x2="670" y2="56" />
+    <line x1="198" y1="10" x2="198" y2="315" />
+    <line x1="594" y1="10" x2="594" y2="315" />
+    <line x1="198" y1="315" x2="670" y2="315" />
+  </g>
+</svg>
