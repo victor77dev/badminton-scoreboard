@@ -1,10 +1,13 @@
 import React from 'react';
 
+import styles from './index.module.scss';
+
 /** @type {React.FC<Props>} */
 export const SubCourt = (props) => {
   return (
-    <div className={props.className}>
-      <p>{props.name}</p>
+    <div className={styles.container}>
+      <span className={styles.name}>{props.name}</span>
+      <div className={`${styles.court_image} ${props.imageStyles}`} />
     </div>
   );
 };
@@ -12,5 +15,5 @@ export const SubCourt = (props) => {
 /**
  * @typedef {Object} Props
  * @prop {string} name
- * @prop {string} className
+ * @prop {string} imageStyles
  */

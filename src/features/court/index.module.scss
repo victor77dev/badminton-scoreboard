@@ -4,23 +4,18 @@
   height: var(--court_height);
 }
 
-.left_side {
-  background-image: url('images/sub-court.svg');
-  height: 100%;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: contain;
+.left_left {
+  transform: scaleX(-1);
 }
 
-.right_side {
-  background-image: url('images/sub-court.svg');
-  height: 100%;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-size: contain;
+.left_right {
+  transform: scale(-1, -1);
+}
+
+.right_left {
   transform: scaleY(-1);
 }
 
-.left_half {
-  transform: scaleX(-1);
+.right_right {
+  transform: none;
 }
