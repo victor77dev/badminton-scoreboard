@@ -1,8 +1,8 @@
 .court {
   background-color: rgb(70,103,61);
   display: flex;
-  width: 80vw;
-  height: calc(80vw * 315 / 680);
+  width: var(--court_width);
+  height: var(--court_height);
 }
 
 .left_side {
