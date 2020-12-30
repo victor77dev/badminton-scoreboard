@@ -10,8 +10,8 @@ export const Court = () => {
   useEffect(() => {
     const onScreenChange = () => {
       const bodyStyle = document.body.style;
-      const width = Math.round(0.8 * document.body.clientWidth);
-      const height = Math.round(315 / 680 * width);
+      const width = Math.floor(0.8 * document.body.clientWidth / 2) * 2;
+      const height = Math.floor(315 / 680 * width / 2) * 2;
       bodyStyle.setProperty('--court_width', `${width}px`);
       bodyStyle.setProperty('--court_height', `${height}px`);
     }
