@@ -5,7 +5,7 @@ import styles from './index.module.scss';
 /** @type {React.FC} */
 export const HalfCourt = ({children}) => {
   return (
-    <div className={styles.half_court}>
+    <div className={styles.container}>
       {children}
     </div>
   );

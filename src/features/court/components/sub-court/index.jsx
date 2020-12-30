@@ -7,7 +7,7 @@ export const SubCourt = (props) => {
   return (
     <div className={styles.container}>
       <span className={styles.name}>{props.name}</span>
-      <div className={`${styles.court_image} ${props.imageStyles}`} />
+      <div className={`${styles.image} ${props.imageStyles}`} />
     </div>
   );
 };
