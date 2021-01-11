@@ -1,0 +1,21 @@
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+.image {
+  background-image: url('../../images/sub-court.svg');
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.name {
+  position: relative;
+  float: left;
+  width: 100%;
+  top: 50%;
+  text-align: center;
+  z-index: 1;
+}

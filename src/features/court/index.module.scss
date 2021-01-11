@@ -1,0 +1,21 @@
+.court {
+  display: flex;
+  width: var(--court_width);
+  height: var(--court_height);
+}
+
+.left_left {
+  transform: scaleX(-1);
+}
+
+.left_right {
+  transform: scale(-1, -1);
+}
+
+.right_left {
+  transform: scaleY(-1);
+}
+
+.right_right {
+  transform: none;
+}

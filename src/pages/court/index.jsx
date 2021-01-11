@@ -1,13 +1,12 @@
 import React, { Fragment } from 'react';
-import { CourtPage } from 'pages/court';
+
+import { Court } from 'features/court';
 
 /** @type {React.FC} */
-const App = () => {
+export const CourtPage = () => {
   return (
     <Fragment>
-      <CourtPage />
+      <Court />
     </Fragment>
   );
-}
-
-export default App;
+};
